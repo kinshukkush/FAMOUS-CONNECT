@@ -587,20 +587,6 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Name](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
-
----
 
 ## 🙏 Acknowledgments
 
@@ -613,36 +599,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-## 📞 Support
 
-For support, email support@famousconnect.com or join our Slack channel.
-
----
-
-## 🗺️ Roadmap
-
-### Version 1.1 (Q2 2026)
-- [ ] Push notifications
-- [ ] In-app payments
-- [ ] Service provider dashboard
-- [ ] Booking calendar
-- [ ] Review and rating system
-
-### Version 1.2 (Q3 2026)
-- [ ] Advanced search filters
-- [ ] Map view for nearby services
-- [ ] Multi-language support
-- [ ] Social media integration
-- [ ] Referral program
-
-### Version 2.0 (Q4 2026)
-- [ ] Video consultations
-- [ ] AI-powered service recommendations
-- [ ] Subscription plans
-- [ ] Analytics dashboard
-- [ ] White-label solution
-
----
 
 **Made with ❤️ using React Native & Expo**
 
@@ -670,3 +627,35 @@ If you see "Something went wrong" after scanning:
 1.  Ensure your phone and computer are on the **same Wi-Fi network**.
 2.  Clear the Metro bundler cache: `npx expo start -c`.
 3.  Check that the `.env` file exists and is correctly formatted.
+
+---
+
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+---
+
+## 👨‍💻 Author
+
+- **Kinshuk Saxena**
+- Email: [kinshuksaxena3@gmail.com](mailto:kinshuksaxena3@gmail.com)
+- LinkedIn: [linkedin.com/in/Kinshuk-Saxena-](https://www.linkedin.com/in/kinshuk-saxena-)
+- GitHub: [github.com/Kinshukkush](https://github.com/Kinshukkush)
+- Portfolio: [kinshuksaxena.vercel.app](https://portfolio-frontend-mu-snowy.vercel.app/)
+
+
+---
+
+
+## 📞 Support
+
+For support, email kinshuksaxena3@gmail.com or join our Slack channel.
+
+
+## call: ``+91 9057538521``
+
+
+---
